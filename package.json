@@ -1,0 +1,17 @@
+{
+  "name": "exercise2",
+  "version": "1.0.0",
+  "description": "TDD - Getting a Grip",
+  "author": "Andoni Arroyo (https://www.meetup.com/TheDevWorkbench/)",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "babel-jest": "*",
+    "jest": "*"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  }
+}
